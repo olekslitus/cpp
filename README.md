@@ -11,6 +11,9 @@ Board of C++ resources, tools, websites, etc
 - [Microsoft C++](https://learn.microsoft.com/en-us/cpp/cpp)
 - [DevDocs](https://devdocs.io/) (based on CPP Reference)
 
+## Resources
+- [C++ Best Practices](https://github.com/cpp-best-practices#templates)
+
 ## Books
 - []()
 - []()
